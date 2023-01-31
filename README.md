@@ -1,5 +1,9 @@
 # Generative-AI-Cookbook
-
+  * [Text](#text)
+  * [Image](#image)
+  * [Audio](#audio)
+  * [Video](#video)
+  
 Work In Progress! 
 
 ## Text
